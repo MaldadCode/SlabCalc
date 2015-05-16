@@ -1,0 +1,2 @@
+# SlabCalc
+Calculadora de losas
